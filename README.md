@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 
-We would like to thank the metropolitan police for providing the crime data used in this analysis.
+I would like to thank the metropolitan police for providing the crime data used in this analysis.
 
 
  
