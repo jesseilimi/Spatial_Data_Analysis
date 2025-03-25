@@ -1,8 +1,3 @@
-# Space_TIme_Exploration_of_Metro_Police
-Here is the revised README documentation formatted to be GitHub compliant:
-
----
-
 # Space Time Exploration of Metro-Police Crime Data (April 2021 - March 2024)
 
 ## Introduction
